@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...If, at first, you do not succeed, call it version 1.0
 
+**SKILLS**
+
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,java)](https://skillicons.dev)
 <!---
 Praba-kar/Praba-kar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
